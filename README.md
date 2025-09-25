@@ -6,7 +6,7 @@
 I'm a **Competitive Programmer** and **Backend Engineer** who enjoys solving problems in elegant ways.  
 Currently exploring **Golang** and **Spring Boot** while building scalable backend systems.  
 
-🎓 I’m an **Information Systems student** at *Universitas Brawijaya, Faculty of Computer Science*.
+🎓 I’m an **Information Systems student** at *Brawijaya University, Faculty of Computer Science*.
 
 I’m also interested in learning modern tools widely used in large-scale companies,  
 such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and cloud platforms like **AWS / GCP / Azure**.  
