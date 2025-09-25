@@ -2,8 +2,6 @@
 <p align="center"><i>Competitive Programmer | Backend Engineer | Tech Enthusiast</i></p>
 
 ---
-
-## 🪶 About Me
 ## 🪶 About Me
 I'm a **Competitive Programmer** and **Backend Engineer** who enjoys solving problems in elegant ways.  
 Currently exploring **Golang** and **Spring Boot** while building scalable backend systems.  
@@ -45,4 +43,4 @@ such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and clo
 
 ---
 
-<p align="center"><i>“Write code that others can read, not just machines.”</i></p>
+<p align="center"><i>“coding in an elegant way”</i></p>
