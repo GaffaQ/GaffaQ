@@ -4,33 +4,27 @@
 ---
 
 ## 🪶 About Me
+## 🪶 About Me
 I'm a **Competitive Programmer** and **Backend Engineer** who enjoys solving problems in elegant ways.  
 Currently exploring **Golang** and **Spring Boot** while building scalable backend systems.  
+
+🎓 I’m an **Information Systems student** at *Universitas Brawijaya, Faculty of Computer Science*.
 
 I’m also interested in learning modern tools widely used in large-scale companies,  
 such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and cloud platforms like **AWS / GCP / Azure**.  
 
+
 ---
-
 ## 🛠 Tech Stack
-**Languages**  
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
-</p>
 
-**Frameworks & Tools**  
-<p>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white"/>
-  <img src="GoLahttps://img.shields.io/badge/nd-00ACC1?style=flat&logo=goland&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/PocketMine-MP-00ACC1?style=flat&logo=pmmp&logoColor=white"/>
-  <img src = "https://img.shields.io/badge/Dragonfly-00ACC1?style=flat&logo=dragonfly&logoColor=white">
-</p>
+| **Category**  | **Technologies** |
+|---------------|------------------|
+| **Languages** | <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/> |
+| **Frameworks** | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PocketMine--MP-0088CC?logo=minecraft&logoColor=white"/> <img src="https://img.shields.io/badge/Paper-000000?logo=minecraft&logoColor=white"/> <img src="https://img.shields.io/badge/Spigot-F7A41D?logo=minecraft&logoColor=white"/> <img src="https://img.shields.io/badge/DragonFly-0D96F6?logo=minecraft&logoColor=white"/> |
+| **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> |
+| **Operating Systems** | <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/> |
+| **Tools** | <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/> |
+
 
 ---
 
