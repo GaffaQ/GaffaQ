@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hi, I'm Gaffa</h1>
 <p align="center"><i>Competitive Programmer | Backend Engineer | Tech Enthusiast</i></p>
 
+
 ---
 ## 🪶 About Me
 I'm a **Competitive Programmer** and **Backend Engineer** who enjoys solving problems in elegant ways.  
@@ -11,13 +12,17 @@ Currently exploring **Golang** and **Spring Boot** while building scalable backe
 I’m also interested in learning modern tools widely used in large-scale companies,  
 such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and cloud platforms like **AWS / GCP / Azure**.  
 
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/985790258648088586)](https://discord.com/users/985790258648088586)
+
+</div>
+
 
 ---
-## 🛠 Tech Stack & Discord
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 | **Category**  | **Technologies** |
 |---------------|------------------|
@@ -27,16 +32,7 @@ such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and clo
 | **Operating Systems** | <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/> |
 | **Tools** | <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/> |
 
-</td>
-<td width="40%" valign="top" align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/985790258648088586)](https://discord.com/users/985790258648088586)
-
-</td>
-</tr>
-</table>
-
- 
+</div>
 
 ---
 
