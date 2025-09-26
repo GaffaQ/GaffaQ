@@ -31,6 +31,8 @@ such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and clo
   <img src="https://github-readme-stats.vercel.app/api?username=GaffaQ&show_icons=true&theme=github_dark" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaffaQ&layout=compact&theme=github_dark" height="160"/>
 </p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/985790258648088586)](https://discord.com/users/985790258648088586)
+
 
 ---
 
