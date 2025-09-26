@@ -13,7 +13,11 @@ such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and clo
 
 
 ---
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Discord
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 | **Category**  | **Technologies** |
 |---------------|------------------|
@@ -23,6 +27,16 @@ such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and clo
 | **Operating Systems** | <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/> |
 | **Tools** | <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/> |
 
+</td>
+<td width="40%" valign="top" align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/985790258648088586)](https://discord.com/users/985790258648088586)
+
+</td>
+</tr>
+</table>
+
+ 
 
 ---
 
@@ -31,8 +45,6 @@ such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and clo
   <img src="https://github-readme-stats.vercel.app/api?username=GaffaQ&show_icons=true&theme=github_dark" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaffaQ&layout=compact&theme=github_dark" height="160"/>
 </p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/985790258648088586)](https://discord.com/users/985790258648088586)
-
 
 ---
 
