@@ -14,7 +14,7 @@ such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and clo
 
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/985790258648088586)](https://discord.com/users/985790258648088586)
+[![Discord Presence](https://lanyard.cnrad.dev/api/985790258648088586?idleMessage=think%20in%20an%20elegant%20style&theme=dark)](https://discord.com/users/985790258648088586)
 
 </div>
 
