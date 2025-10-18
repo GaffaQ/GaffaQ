@@ -38,12 +38,12 @@ such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and clo
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GaffaQ&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=GaffaQ&label=Profile%20Views&color=blueviolet&style=plastic" alt="Profile views"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaffaQ&show_icons=true&theme=github_dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaffaQ&layout=compact&theme=github_dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GaffaQ&show_icons=true&theme=holi" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaffaQ&layout=compact&theme=holi" height="160"/>
 </p>
 
 ---
