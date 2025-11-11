@@ -10,7 +10,7 @@ Currently exploring **Golang** and **Spring Boot** while building scalable backe
 🎓 I’m an **Information Systems student** at *Brawijaya University, Faculty of Computer Science*.
 
 I’m also interested in learning modern tools widely used in large-scale companies,  
-such as **Kubernetes, Docker, Redis, PostgreSQL, Kafka, ElasticSearch**, and cloud platforms like **AWS / GCP / Azure**.  
+such as **Kubernetes, Docker, Redis, Kafka**, and cloud platforms like **AWS / GCP / Azure**.  
 
 <div align="center">
 
