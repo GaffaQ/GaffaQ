@@ -1,15 +1,20 @@
 <h1 align="center">👋 Hi, I'm Gaffa</h1>
 <p align="center"><i>Competitive Programmer | Backend Engineer | Tech Enthusiast</i></p>
 
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=GaffaQ&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF">
+  
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=GaffaQ&theme=road_trip">
+</picture>
 
 ---
 ## 🪶 About Me
-<!--I'm a **Competitive Programmer** and **Backend Engineer** who enjoys solving problems in elegant ways.  
-Currently exploring **Golang** and **Spring Boot** while building scalable backend systems.  
+I'm a **Competitive Programmer** and **Backend Developer Enthusiast** who enjoys solving problems in elegant ways.  
+Currently exploring **Golang** and **Java** while building scalable backend systems.  
 
 🎓 I’m an **Information Systems student** at *Brawijaya University, Faculty of Computer Science*.
 
-I’m also interested in learning modern tools widely used in large-scale companies,  
+<!-- I’m also interested in learning modern tools widely used in large-scale companies,  
 such as **Kubernetes, Docker, Redis, Kafka**, and cloud platforms like **AWS / GCP / Azure**.  -->
 
 <div align="center">
