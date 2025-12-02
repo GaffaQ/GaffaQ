@@ -14,6 +14,8 @@ such as **Kubernetes, Docker, Redis, Kafka**, and cloud platforms like **AWS / G
 
 <div align="center">
 
+<source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=GaffaQ&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/985790258648088586?idleMessage=think%20in%20an%20elegant%20style&theme=dark)](https://discord.com/users/985790258648088586)
 
 </div>
@@ -26,11 +28,11 @@ such as **Kubernetes, Docker, Redis, Kafka**, and cloud platforms like **AWS / G
 
 | **Category**  | **Technologies** |
 |---------------|------------------|
-| **Languages** | <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/> |
-| **Frameworks** | <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/PocketMine--MP-0088CC?logo=minecraft&logoColor=white"/> <img src="https://img.shields.io/badge/Paper-000000?logo=minecraft&logoColor=white"/> <img src="https://img.shields.io/badge/Spigot-F7A41D?logo=minecraft&logoColor=white"/> <img src="https://img.shields.io/badge/DragonFly-0D96F6?logo=minecraft&logoColor=white"/> |
-| **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/> |
-| **Operating Systems** | <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/> |
-| **Tools** | <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,go,java,php&theme=dark"/> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,tailwind&theme=dark"/> |
+| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/> |
+| **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,ubuntu&theme=dark"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=maven,vscode,git,bash,clion,idea,postman&theme=dark"/> |
 
 </div>
 
@@ -42,17 +44,17 @@ such as **Kubernetes, Docker, Redis, Kafka**, and cloud platforms like **AWS / G
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaffaQ&show_icons=true&theme=holi" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaffaQ&layout=compact&theme=holi" height="160"/>
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GaffaQ&theme=aura&chart=bars" height="160"/>
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GaffaQ&type=languages&theme=aura&chart=bars" height="160"/>
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/gaffa-fadhlanul-rozaq/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:gaffafadhlanulrozaq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/gaffaaq"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gaffa-fadhlanul-rozaq/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
+  <a href="mailto:gaffafadhlanulrozaq@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
+  <a href="https://instagram.com/gaffaaq"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
 </p>
 
 ---
