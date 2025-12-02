@@ -49,8 +49,8 @@ such as **Kubernetes, Docker, Redis, Kafka**, and cloud platforms like **AWS / G
 </p>
 
 <p align="center">
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GaffaQ&theme=aura&chart=bars" height="160"/>
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GaffaQ&type=languages&theme=aura&chart=bars" height="160"/>
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GaffaQ&theme=dark&chart=bars" height="160"/>
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GaffaQ&type=languages&theme=dark&chart=bars" height="160"/>
 </p>
 
 ---
