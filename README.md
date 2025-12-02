@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Gaffa</h1>
-<p align="center"><i>Competitive Programmer | Backend Engineer | Tech Enthusiast</i></p>
+<p align="center"><i>Competitive Programmer | Backend Developer | Tech Enthusiast</i></p>
 
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=GaffaQ&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF">
