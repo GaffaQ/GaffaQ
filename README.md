@@ -37,7 +37,7 @@ such as **Kubernetes, Docker, Redis, Kafka**, and cloud platforms like **AWS / G
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,tailwind&theme=dark"/> |
 | **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/> |
 | **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,ubuntu&theme=dark"/> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=maven,vscode,git,bash,clion,idea,postman&theme=dark"/> |
+| **Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=maven,vscode,git,goland,clion,idea,postman"/> |
 
 </div>
 
