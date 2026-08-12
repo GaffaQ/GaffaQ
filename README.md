@@ -1,6 +1,3 @@
-
----
-
 ---
 
 ### About Me
@@ -34,4 +31,3 @@ Im 19. Im very passionate about competitive programming. Working as an software 
 
 ---
 
----
