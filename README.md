@@ -1,67 +1,33 @@
-<h1 align="center">👋 Hi, I'm Gaffa</h1>
-<p align="center"><i>Competitive Programmer | Backend Developer | Tech Enthusiast</i></p>
+<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AkmalFairuz&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/> -->
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=GaffaQ&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF">
-  
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=GaffaQ&theme=road_trip">
-</picture>
+### About Me
 
----
-## 🪶 About Me
-I'm a **Competitive Programmer** and **Backend Developer Enthusiast** who enjoys solving problems in elegant ways.  
-Currently exploring **Golang** and **Java** while building scalable backend systems.  
+Owner of VolteraMC
 
-🎓 I’m an **Information Systems student** at *Brawijaya University, Faculty of Computer Science*.
+Computer Science Student.
 
-<!-- I’m also interested in learning modern tools widely used in large-scale companies,  
-such as **Kubernetes, Docker, Redis, Kafka**, and cloud platforms like **AWS / GCP / Azure**.  -->
+Im 19. Im very passionate about competitive programming. Working as an software developer, infrastructure engineer, and doing a lot of system design work as well. I have been seriously learning and gaining experience in software engineering since 2022.
 
-<div align="center">
+### Languages, Frameworks, and Tools
 
-<source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=GaffaQ&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&theme=road_trip&color=%23ffffffFF">
+- **C++**: Preferred for competitive programming.
+- **Golang**: Almost all projects are written in Go. Because its fast, simple, and easy to deploy..
+- **Java**: My preferred OOP language.
+- **Typescript**: I prefer Typescript over Javascript.
+- **Docker**: All my projects will be deployed in a docker container.
+- **JetBrains**: I use JetBrains products for my development. I use [GoLand](https://www.jetbrains.com/go/), [PhpStorm](https://www.jetbrains.com/phpstorm/), [IntelliJ](https://www.jetbrains.com/idea/), and [WebStorm](https://www.jetbrains.com/webstorm/).
+- **ReactJS**: Used to build frontend dashboards and internal tools that interact with REST from my backend services.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/985790258648088586?idleMessage=think%20in%20an%20elegant%20style&theme=dark)](https://discord.com/users/985790258648088586)
+## Projects
+- [volteramc.net](https://volteramc.net) - Built using Golang and TypeScript. Integrated with the Midtrans payment gateway.
 
-</div>
+### Contact Me
+- Discord: gaffaaq
+- Email: gaffa@volteramc.net
+- Linkedin: [www.linkedin.com/in/gaffa-fadhlanul-rozaq/](https://www.linkedin.com/in/gaffa-fadhlanul-rozaq/)
 
+<!--
+### Donate
+- [PayPal](https://paypal.me/akmalfairuz)
 
----
-## 🛠 Tech Stack
-
-<div align="center">
-
-| **Category**  | **Technologies** |
-|---------------|------------------|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,go,java,php&theme=dark"/> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=spring,tailwind&theme=dark"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/> |
-| **Operating Systems** | <img src="https://skillicons.dev/icons?i=windows,ubuntu&theme=dark"/> |
-| **Tools** | <img src="https://go-skill-icons.vercel.app/api/icons?i=maven,vscode,git,goland,clion,idea,postman"/> |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GaffaQ&label=Profile%20Views&color=blueviolet&style=plastic" alt="Profile views"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GaffaQ&theme=nightowl&hide_border=true&border_radius=10&short_numbers=true&date_format=j%20M%5B%20Y%5D" height="160"/>
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=GaffaQ&type=languages&theme=github&chart=bars" height="160"/>
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/gaffa-fadhlanul-rozaq/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
-  <a href="mailto:gaffafadhlanulrozaq@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>
-  <a href="https://instagram.com/gaffaaq"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
-</p>
-
----
-
-<p align="center"><i>“coding in an elegant way”</i></p>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkmalFairuz&hide=shell,css,nsis&layout=compact"/> -->
