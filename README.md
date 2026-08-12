@@ -1,4 +1,7 @@
-<!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AkmalFairuz&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/> -->
+
+---
+
+---
 
 ### About Me
 
@@ -26,8 +29,9 @@ Im 19. Im very passionate about competitive programming. Working as an software 
 - Email: gaffa@volteramc.net
 - Linkedin: [www.linkedin.com/in/gaffa-fadhlanul-rozaq/](https://www.linkedin.com/in/gaffa-fadhlanul-rozaq/)
 
-<!--
 ### Donate
-- [PayPal](https://paypal.me/akmalfairuz)
+- [PayPal](https://paypal.me/gaffadev)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkmalFairuz&hide=shell,css,nsis&layout=compact"/> -->
+---
+
+---
