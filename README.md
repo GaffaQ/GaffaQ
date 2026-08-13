@@ -2,8 +2,6 @@
 
 ### About Me
 
-Owner of VolteraMC
-
 Computer Science Student.
 
 Im 19y.o. Im very passionate about competitive programming. Working as an software developer, infrastructure engineer, and doing a lot of system design work as well. I have been seriously learning and gaining experience in software engineering since 2022.
